@@ -92,6 +92,14 @@ The Network showed 98.69999885559082% of accuracy.
   않을까라는 자신감도 생긴 것 같다. 
   결과적으로 이 네트워크는 98.69999885559082% 의 정확도를 보였다. 
   
-  
+ 
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ 본 프로젝트에 있어서 <https://wikidocs.net/63618>의 글을 참고
 ___________________________________________________________________________________________
 Classification of MNIST handwritten numbers using Pytorch and local MNIST.mat file
