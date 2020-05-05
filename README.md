@@ -100,6 +100,9 @@ The Network showed 98.69999885559082% of accuracy.
  </br>
  </br>
  </br>
- 본 프로젝트에 있어서 <https://wikidocs.net/63618>의 글을 참고
+ 
+ 본 프로젝트에 있어서 <https://wikidocs.net/63618>의 글을 참고했습니다
+ 
+ </br>
 ___________________________________________________________________________________________
 Classification of MNIST handwritten numbers using Pytorch and local MNIST.mat file
